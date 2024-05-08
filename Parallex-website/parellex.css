@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.border{
+    width: 100vw;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.background-A{
+    background-image: url(pexels-pixabay-237018.jpg);
+}
+.background-B{
+    background-image: url(pexels-james-wheeler-414612.jpg);
+}
+.background-C{
+    background-image: url(pexels-david-besh-884788.jpg);
+}
+.background-D{
+    background-image: url(pexels-pixabay-268533.jpg);
+}
+.title{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 60px;
+    font-size: 2rem;
+    background-color: grey;
+}
+.end{
+    text-align: center;
+}
+.end p{ 
+    margin: 25px 100px;
+}
+.end h2{ 
+    margin: 25px 100px;
+}
+.s
